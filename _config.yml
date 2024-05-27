@@ -1,5 +1,5 @@
 title: Bol
-logo: assets/images/github_profile.jpg
+logo: asset/images/github_profile.jpg
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
